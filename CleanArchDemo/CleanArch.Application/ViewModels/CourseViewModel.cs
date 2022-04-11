@@ -1,4 +1,5 @@
-﻿using CleanArch.Doman.Models;
+﻿using CleanArch.Domain.Models;
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
