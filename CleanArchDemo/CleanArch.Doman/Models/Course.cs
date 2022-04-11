@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch.Doman.Models
+namespace CleanArch.Domain.Models
 {
     public class Course
     {
